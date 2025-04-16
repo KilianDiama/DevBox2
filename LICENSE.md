@@ -5,7 +5,7 @@ Ce logiciel, ses composants et ses dérivés sont protégés par la présente li
 Toute utilisation du code implique l'acceptation des conditions suivantes :
 
 1. 🔓 **Usage personnel et éducatif** — libre, sans restriction.  
-2. 🤝 **Usage open-source** — autorisé sous réserve de mention claire de l’auteur (“Kilian Diama aka Diamajax”) dans le code, la documentation ou l’interface.
+2. 🤝 **Usage open-source** — autorisé sous réserve de mention claire de l’auteur (“matthieu aka Diamajax”) dans le code, la documentation ou l’interface.
 3. 💼 **Usage commercial** — INTERDIT sans accord écrit explicite de l’auteur.  
    → Pour toute demande commerciale, contactez : [diamajax@gmail.com].
 
